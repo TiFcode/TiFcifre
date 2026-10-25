@@ -4,4 +4,4 @@ Joc românesc de numărat pentru copii: copilul numără obiectele și alege cif
 
 ## Attribution
 
-`assets/trumpet.ogg` is the CC0 trumpet recording [06. F5-trumpet.ogg](https://commons.wikimedia.org/wiki/File:06._F5-trumpet.ogg), by ПростоУчастник via Wikimedia Commons.
+`assets/celebration.mp3` is the CC0 [Victory](https://opengameart.org/content/victory-6) success effect by Musheran via OpenGameArt.
