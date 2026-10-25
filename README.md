@@ -4,4 +4,4 @@ Joc românesc de numărat pentru copii: copilul numără obiectele și alege cif
 
 ## Attribution
 
-`assets/celebration.mp3` is the CC0 [Victory](https://opengameart.org/content/victory-6) success effect by Musheran via OpenGameArt.
+`assets/lullaby.ogg` is a softened excerpt from the CC0 [4 Music Box Tracks](https://opengameart.org/node/136996), by Aureolus_Omicron via OpenGameArt.
