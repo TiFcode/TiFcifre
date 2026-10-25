@@ -4,4 +4,4 @@ Joc românesc de numărat pentru copii: copilul numără obiectele și alege cif
 
 ## Attribution
 
-`assets/lullaby.ogg` is a softened excerpt from the CC0 [4 Music Box Tracks](https://opengameart.org/node/136996), by Aureolus_Omicron via OpenGameArt.
+`assets/cabin-chime.ogg` is a softened CC0 recreation of an airplane cabin chime: [Airplane ding](https://freesound.org/people/Sadiquecat/sounds/845147/) by Sadiquecat via Freesound.
